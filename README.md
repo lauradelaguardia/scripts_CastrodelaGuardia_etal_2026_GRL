@@ -1,4 +1,4 @@
-**These scripts read and plot the data stored at [ZENODO](https://doi.org/10.5281/zenodo.19336674). We collected during the 2024 RRS Sir David Attenborough (SD041) research cruise to southeast Greenland as part of the Kang-Glac project (NERC grant NE/V006509/1). Data and scripts are linked to the manuscript:**
+**These scripts read and plot the data stored at [ZENODO](https://doi.org/10.5281/zenodo.19336674). We collected it during the 2024 RRS Sir David Attenborough (SD041) research cruise to southeast Greenland as part of the Kang-Glac project (NERC grant NE/V006509/1). Data and scripts are linked to the manuscript:**
 - Titled: Turbulent Mixing at Marine-Terminating Glaciers Is Organized into Distinct Regimes
 - Authors: Laura Castro de la Guardia¹,², Mark E. Inall¹,², E. Povl Abrahamsen³, Lea Riehn², Bryony Freer⁴, Vicent Doñate Felip⁵, Lewis Drysdale¹,², Martim Mas e Braga³, John A. Howe¹,², Colm ÓCofaigh⁶, Kelly A. Hogan³
 
