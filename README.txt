@@ -1,7 +1,10 @@
-These data  were collected in 2024 during RRS Sir David Attenborough (SD041) research cruise to southeast Greenland as part of the Kang-Glac project (NERC grant NE/V006509/1). These data accompany the manuscript submitted to GRL: 'Multiple Turbulent Mixing Regimes at the Termini of Three Marine-Terminating Glaciers in Southeast Kalaallit Nunaat (Greenland)'.
+These data  were collected in 2024 during RRS Sir David Attenborough (SD041) research cruise to southeast Greenland as part of the Kang-Glac project (NERC grant NE/V006509/1). 
+These data accompany the manuscript titled: Turbulent Mixing at Marine-Terminating Glaciers Is Organized into Distinct Regimes
+Authors
 Laura Castro de la Guardia¹,², Mark E. Inall¹,², E. Povl Abrahamsen³, Lea Riehn², Bryony Freer⁴, Vicent Doñate Felip⁵, Lewis Drysdale¹,², Martim Mas e Braga³, John A. Howe¹,², Colm ÓCofaigh⁶, Kelly A. Hogan³
 
-The data support our findings of multiple mixing regimes along the glacier front. Mixing was strongest in close proximity to the where the underwater flows rose (subglacial plume), and weakest further away from the glacier. Areas not affected by these subglacier flows, but still close to the glacier (within 800m of the ice face), as well as places where meltwater came from land as runoff or via melting icebergs, showed moderate mixing.
+Summary of results
+The data supports the presence of coexisting mixing regimes along the glacier front and in the fjord. Mixing was strongest in areas influenced by the plume and weakest further away from the glacier front. We also identified unique and significant mixing regimes along the glacier front in areas not directly influenced by the plume, such as the ambient near-terminus, areas near icebergs (iceberg melt) and runoff-influenced areas. The mixing orders of magnitude in these areas were moderate, being one order of magnitude weaker than in the plume-influenced areas, but one order of magnitude greater than ambient fjord mixing.
 
 
 DATA – Instruments: 
